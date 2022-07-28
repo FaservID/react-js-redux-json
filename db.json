@@ -1,0 +1,81 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "nama": "Inggih Rembang",
+            "alamat": "Palembang",
+            "umur": 23,
+            "phone": "082178526861"
+          },
+          {
+            "id": 2,
+            "nama": "Jajang",
+            "alamat": "Palembang",
+            "umur": 21,
+            "phone": "082178523231"
+          },
+          {
+            "id": 3,
+            "nama": "Ujang",
+            "alamat": "Palembang",
+            "umur": 21,
+            "phone": "0821785234341"
+          },
+          {
+            "id": 4,
+            "nama": "Entis",
+            "alamat": "Palembang",
+            "umur": 22,
+            "phone": "082178522361"
+          },
+          {
+            "id": 5,
+            "nama": "Joko",
+            "alamat": "Jakarta",
+            "umur": 25,
+            "phone": "0821785262321"
+          },
+          {
+            "id": 6,
+            "nama": "Septi",
+            "alamat": "Palembang",
+            "umur": 23,
+            "phone": "082278526861"
+          },
+          {
+            "id": 7,
+            "nama": "Daffa",
+            "alamat": "Lahat",
+            "umur": 22,
+            "phone": "082345523231"
+          },
+          {
+            "id": 8,
+            "nama": "Rendi",
+            "alamat": "Palembang",
+            "umur": 23,
+            "phone": "08321212323"
+          },
+          {
+            "id": 9,
+            "nama": "Diki",
+            "alamat": "Palembang",
+            "umur": 23,
+            "phone": "082345422361"
+          },
+          {
+            "id": 10,
+            "nama": "Wakdodo",
+            "alamat": "Jakarta",
+            "umur": 28,
+            "phone": "0821785263431"
+          },
+          {
+            "id": 11,
+            "nama": "Cecep",
+            "alamat": "Bandung",
+            "umur": 28,
+            "phone": "0821785263431"
+          }
+    ]
+}
